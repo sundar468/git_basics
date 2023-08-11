@@ -1,6 +1,8 @@
 git config --global user.username
 git config --global user.password
 
+git init
+
 git add .
 
 git status
